@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cuersy</h1>
-<h3 align="center">I like doing systyems</h3>
+<h3 align="center">I like doing systems</h3>
 
 - 🔭 I’m currently working on **Anti Bypass.lua**
 
