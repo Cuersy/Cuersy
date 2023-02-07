@@ -1,1 +1,4 @@
-return loadstring(game:HttpGet("ssddssdsd"))()
+return {
+"sex",
+"porn",
+}
