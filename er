@@ -1,2 +1,3 @@
-local a = "se"
-print(a)
+return{
+"DevCuersy";
+}
