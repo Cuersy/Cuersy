@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cuersy</h1>
 <h3 align="center">I like doing systems</h3>
 
-- 🔭 I’m currently working on **Anti Bypass.lua**
+- 🔭 I’m currently working on **Firework Whitelist Service**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **cuersystudios@gmail.com**
+- 📫 How to reach me **cuersy@cuersy.xyz**
 
 - ⚡ Fun fact **I think i can fuck all girls in the world**
 
