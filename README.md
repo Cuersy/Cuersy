@@ -1,1 +1,1 @@
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=204620732259368960)
