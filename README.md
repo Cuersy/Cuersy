@@ -1,1 +1,1 @@
-<img src="https://dcbadge.vercel.app/api/shield/1073562240021704795" />
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1073562240021704795)
